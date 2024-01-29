@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Ahmed</h1>
-<h3 align="center">A passionate full-stack developer from Egypt</h3>
+<h3 align="center">A passionate back-end developer from Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"/>
 
